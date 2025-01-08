@@ -1,0 +1,92 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Gail H. Digital Garden"
+theme = "digitalgarden"
+
+googleAnalytics = "UA-PROPERTY_ID"
+
+[Params]
+  description = "Hypermedia, semantic networks, and bricolage"
+  images = ['/digital-garden-logo.png']
+  enableSearch = true
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 2
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 3
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 4 
+[[menu.main]]
+  name = 'Seedlings'
+  url = '/seedlings'
+  weight = 5
+[[menu.main]]
+  name = 'Learning Out Loud'
+  url = '/learning_out_loud'
+  weight = 6
+[[menu.main]]
+  name = 'Links for Learning'
+  params.header = true
+  weight = 7
+[[menu.main]]
+  name = '#100Devs'
+  url = 'https://leonnoel.com/100devs/'
+  weight = 8
+[[menu.main]]
+  name = 'Teach Yourself Computer Science'
+  url = 'https://teachyourselfcs.com'
+  weight = 9
+[[menu.main]]
+  name = 'The Multiverse School'
+  url = 'https://themultiverse.school'
+  weight = 10
+[[menu.main]]
+  name = 'DeepThought Education'
+  url = 'https://deepthought.education'
+  weight = 11
+[[menu.main]]
+  name = 'Misc'
+  params.header = true
+  weight = 12
+[[menu.main]]
+  name = 'Stack'
+  url = '/stack'
+  weight = 13
+
+
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/gailhantson'
+  weight = 2
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://www.linkedin.com/in/gail-hantson/'
+  weight = 3
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:gailhantson@hotmail.com'
+  weight = 8
+[[menu.social]]
+  name = 'RSS'
+  url = '/articles/index.xml'
+  weight = 9
+
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
