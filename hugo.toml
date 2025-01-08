@@ -55,14 +55,6 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'DeepThought Education'
   url = 'https://deepthought.education'
   weight = 11
-[[menu.main]]
-  name = 'Misc'
-  params.header = true
-  weight = 12
-[[menu.main]]
-  name = 'Stack'
-  url = '/stack'
-  weight = 13
 
 
 [[menu.social]]
