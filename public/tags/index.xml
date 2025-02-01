@@ -6,6 +6,49 @@
     <description>Recent content in Tags on Gail H. Digital Garden</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2025 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knowledge Management</title>
+      <link>https://example.org/tags/knowledge-management/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/knowledge-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obsidian</title>
+      <link>https://example.org/tags/obsidian/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ontologies</title>
+      <link>https://example.org/tags/ontologies/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/ontologies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Knowledge Management (PKM)</title>
+      <link>https://example.org/tags/personal-knowledge-management-pkm/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/personal-knowledge-management-pkm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RDF</title>
+      <link>https://example.org/tags/rdf/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/rdf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Semantic Web</title>
+      <link>https://example.org/tags/semantic-web/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/semantic-web/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

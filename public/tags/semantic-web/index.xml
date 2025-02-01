@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Gail H. Digital Garden</title>
-    <link>https://example.org/</link>
-    <description>Recent content in Homepage on Gail H. Digital Garden</description>
+    <title>Semantic Web on Gail H. Digital Garden</title>
+    <link>https://example.org/tags/semantic-web/</link>
+    <description>Recent content in Semantic Web on Gail H. Digital Garden</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Feb 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/semantic-web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian for Ontologies</title>
       <link>https://example.org/learning_out_loud/obsidian-for-ontologies/</link>
       <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
       <guid>https://example.org/learning_out_loud/obsidian-for-ontologies/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;RIP Niklas Luhmann you would have loved RDF&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I’m thinking a lot about ontologies lately. When I “learned to code”, HTML was up first, and thanks to my Wikipedia surfing habit I learned about Tim Berners Lee and his vision for the semantic web pretty early on. I didn’t fully understand it then, and I still don’t now, but I keep coming back to this cloud of related topics because it feels interesting and useful.&#xA;I’m probably going to get some things wrong here – that’s why this is “learning out loud” and not “authoritative knowledge on a topic” – you’re in my digital garden and you’re henceforth subject to my  work in progress.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hypermedia</title>
-      <link>https://example.org/seedlings/hypermedia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/seedlings/hypermedia/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
