@@ -51,11 +51,6 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'The Multiverse School'
   url = 'https://themultiverse.school'
   weight = 10
-[[menu.main]]
-  name = 'DeepThought Education'
-  url = 'https://deepthought.education'
-  weight = 11
-
 
 [[menu.social]]
   name = 'GitHub'
