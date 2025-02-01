@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/categories/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/knowledge-management/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/tags/knowledge-management/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/learning-out-loud/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/categories/learning-out-loud/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/learning_out_loud/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/learning_out_loud/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/obsidian/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/tags/obsidian/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/learning_out_loud/obsidian-for-ontologies/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/learning_out_loud/obsidian-for-ontologies/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ontologies/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/tags/ontologies/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/personal-knowledge-management-pkm/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/tags/personal-knowledge-management-pkm/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/rdf/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/tags/rdf/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/semantic-web/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/tags/semantic-web/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/tags/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/about/</loc>
   </url><url>
-    <loc>https://example.org/articles/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/articles/</loc>
   </url><url>
-    <loc>https://example.org/seedlings/hypermedia/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/seedlings/hypermedia/</loc>
   </url><url>
-    <loc>https://example.org/seedlings/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/seedlings/</loc>
   </url><url>
-    <loc>https://example.org/stack/</loc>
+    <loc>https://gailhantson.github.io/digital_garden/stack/</loc>
   </url>
 </urlset>
