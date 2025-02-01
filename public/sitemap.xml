@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/knowledge-management/</loc>
+    <loc>https://example.org/tags/knowledge-management/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/learning-out-loud/</loc>
+    <loc>https://example.org/categories/learning-out-loud/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/learning_out_loud/</loc>
+    <loc>https://example.org/learning_out_loud/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/obsidian/</loc>
+    <loc>https://example.org/tags/obsidian/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/learning_out_loud/obsidian-for-ontologies/</loc>
+    <loc>https://example.org/learning_out_loud/obsidian-for-ontologies/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ontologies/</loc>
+    <loc>https://example.org/tags/ontologies/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal-knowledge-management-pkm/</loc>
+    <loc>https://example.org/tags/personal-knowledge-management-pkm/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rdf/</loc>
+    <loc>https://example.org/tags/rdf/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/semantic-web/</loc>
+    <loc>https://example.org/tags/semantic-web/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2025-02-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://example.org/articles/</loc>
   </url><url>
-    <loc>http://localhost:1313/seedlings/hypermedia/</loc>
+    <loc>https://example.org/seedlings/hypermedia/</loc>
   </url><url>
-    <loc>http://localhost:1313/seedlings/</loc>
+    <loc>https://example.org/seedlings/</loc>
   </url><url>
-    <loc>http://localhost:1313/stack/</loc>
+    <loc>https://example.org/stack/</loc>
   </url>
 </urlset>
