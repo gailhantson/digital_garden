@@ -20,7 +20,7 @@
       <link>https://example.org/seedlings/hypermedia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/seedlings/hypermedia/</guid>
-      <description>&lt;img src=&#34;https://example.org/static/imgs/PronovostAndré.jpg&#34; alt=&#34;The image shows a three-dimensional cube with various images and texts on its sides. The cube appears to be a unique piece of art or a decorative item that combines different images and texts related to specific individuals and time periods, possibly reflecting themes of literature, music, and personal history.&#34; srcset=&#34;&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hypermedia, an extension of hypertext, is a nonlinear medium of information that includes graphics, audio, video, plain text and hyperlinks. This designation contrasts with the broader term multimedia, which may include non-interactive linear presentations as well as hypermedia.&lt;/p&gt;</description>
+      <description>&lt;img src=&#34;images/PronovostAndré.jpg&#34; alt=&#34;The image shows a three-dimensional cube with various images and texts on its sides. The cube appears to be a unique piece of art or a decorative item that combines different images and texts related to specific individuals and time periods, possibly reflecting themes of literature, music, and personal history.&#34; srcset=&#34;&#34;&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hypermedia, an extension of hypertext, is a nonlinear medium of information that includes graphics, audio, video, plain text and hyperlinks. This designation contrasts with the broader term multimedia, which may include non-interactive linear presentations as well as hypermedia.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
