@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Management on Gail H. Digital Garden</title>
+    <link>https://example.org/tags/knowledge-management/</link>
+    <description>Recent content in Knowledge Management on Gail H. Digital Garden</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/knowledge-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian for Ontologies</title>
+      <link>https://example.org/learning_out_loud/obsidian-for-ontologies/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.org/learning_out_loud/obsidian-for-ontologies/</guid>
+      <description>What if building structured knowledge was as intuitive as taking notes in Obsidian?</description>
+    </item>
+  </channel>
+</rss>
