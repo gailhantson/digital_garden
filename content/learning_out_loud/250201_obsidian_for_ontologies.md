@@ -1,6 +1,7 @@
 ---
 title: "Obsidian for Ontologies"
-description: "Exploring the intersection of personal knowledge management and ontologies—what if building structured knowledge was as intuitive as taking notes in Obsidian?"
+description: "Exploring personal knowledge management and ontologies — what if building structured knowledge was as intuitive as taking notes in Obsidian?"
+summary: "What if building structured knowledge was as intuitive as taking notes in Obsidian?"
 date: 2025-02-01T12:00:00Z
 tags:
   - Ontologies
@@ -16,7 +17,7 @@ draft: false
 author: Gail Hantson
 ---
 
-> RIP Niklas Luhmann you would have loved RDF
+RIP Niklas Luhmann you would have loved RDF.
 
 I’m thinking a lot about ontologies lately. When I “learned to code”, HTML was up first, and thanks to my Wikipedia surfing habit I learned about Tim Berners Lee and his vision for the semantic web pretty early on. I didn’t fully understand it then, and I still don’t now, but I keep coming back to this cloud of related topics because it feels interesting and useful.
 I’m probably going to get some things wrong here – that’s why this is “learning out loud” and not “authoritative knowledge on a topic” – you’re in my digital garden and you’re henceforth subject to my  work in progress.
