@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seedlings on Gail H. Digital Garden</title>
+    <link>https://gailhantson.github.io/digital_garden/seedlings/</link>
+    <description>Recent content in Seedlings on Gail H. Digital Garden</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://gailhantson.github.io/digital_garden/seedlings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentation</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GNU</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/gnu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/gnu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hypermedia</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/hypermedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/hypermedia/</guid>
+      <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;    &lt;img src=&#34;https://gailhantson.github.io/digital_garden/imgs/PronovostAndre.jpg&#34; alt=&#34;A three-dimensional cube featuring various images and texts.&#34; style=&#34;max-width: 30%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hypermedia, an extension of hypertext, is a nonlinear medium of information that includes graphics, audio, video, plain text and hyperlinks. This designation contrasts with the broader term multimedia, which may include non-interactive linear presentations as well as hypermedia.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Hypermedia&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Wikipedia - Hypermedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Learning Out Loud</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/learning_out_loud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/learning_out_loud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Systems</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/linux_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/linux_systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Org-mode</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/org_mode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/org_mode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Knowledge Management</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/personal_knowledge_management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/personal_knowledge_management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-directed Learning</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/self_directed_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/self_directed_learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site Generators</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/static_site_generators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/static_site_generators/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transmedia Storytelling</title>
+      <link>https://gailhantson.github.io/digital_garden/seedlings/transmedia_storytelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gailhantson.github.io/digital_garden/seedlings/transmedia_storytelling/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
